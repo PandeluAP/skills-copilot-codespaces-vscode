@@ -1,0 +1,1 @@
+function calculateNumbers(var1, var2) {console.log(vae1+var2);}
